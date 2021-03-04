@@ -2,7 +2,7 @@
   "name": "practiceapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://maxlechner.github.io/employeeDb",
+  "homepage": "https://maxlechner.github.io/employeeDb2",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
